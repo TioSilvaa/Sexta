@@ -1,0 +1,45 @@
+#ComandosEconomia
+
+• prefixo: -
+
+| saldo / veja seu saldo do banco/carteira
+| depositar / deposite uma quantia no banco
+| sacar / saque uma quantia do banco
+| pagar / pague um usuário
+| banco / veja o saldo de um usuário
+
+• Trabalhos: 
+
+| trab1 / trabalho level 1 (1K)
+| trab2 / trabalho level 2 (5K)
+| mine / trabalho level 3 (25K)
+| mine2 / trabalho level 4 (50K)
+| daily / Dinheiro diário
+
+[VIP]
+
+| dplus / Dinheiro diário vip
+| dmensal / dinheiro mensal vip
+| tvip1 / trabalho vip 1 (95K)
+| tvip2 / trabalho vip 2 (112K - level 4)
+
+• SHOP:
+
+[levels]
+
+| level1 / upe para o nivel 1
+| level2 / upe para o nivel 2
+| level3 / upe para o nivel 3
+| level4 / upe para o nivel 4
+
+[vip-shop]
+
+| level5 / upe para o nivel 5
+
+[shop-geral]
+
+| buy.scoin / compre moedas Scoins
+| buy.plus / compre acesso SextaPlus
+| buy.nitro (off) / compre discord Nitro
+
+LISTA DE COMANDOS DA SEXTA-FEIRA!
