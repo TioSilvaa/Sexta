@@ -1,11 +1,5 @@
 # Sexta
-Repositório Oficial da Sexta-feira, contendo o necessário para você.
+Repositório Oficial da sexta, by TioSilvaa#8263
+Isso aqui completamente não tem nada de útil...
 
-Olá Usuário! bom este repo foi criado basicamente para você ver coisas importantes,
-sobre a sexta. E bom, tudo que está aqui tem Copyright da própria Sexta, então...
-Não copie nada sem permissão do TioSilvaa#8263 (dc)
-
-| Lista de comandos
-| Links necessários
-| Avisos importantes
-| Dicas de utilidades
+[SÓ EXISTE UPDATE PACK / LINKS DA SEXTA AQUI]
